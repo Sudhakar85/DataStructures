@@ -19,6 +19,11 @@ namespace DataStructures
 
         /// <summary>
         ///  Compare the item which is already sorted and swap the value
+        /// Example : 5492389 Skip 1 Value
+        // Step 1 : Skip 5 
+        // Step 2 : Swap 5 and 4 like 459
+        // Step 3 : Skip 9 like 459
+        // Step 4: : in While loop ( Swap 9 to 2 and all the way to like 2459 )
         /// </summary>
         public void sort()
         {
