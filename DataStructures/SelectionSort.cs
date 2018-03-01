@@ -15,7 +15,7 @@ namespace DataStructures
 
         /// <summary>
         /// O(n2)
-        ///  Compare the item which is already sorted and swap the value
+        ///  Find Min value and replace and move it in the front 
         /// </summary>
         public void sort()
         {
