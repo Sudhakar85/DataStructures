@@ -1,0 +1,6 @@
+C:\Learning\Amazon Interview\DataStructures\DataStructures\bin\Debug\DataStructures.exe.config
+C:\Learning\Amazon Interview\DataStructures\DataStructures\bin\Debug\DataStructures.exe
+C:\Learning\Amazon Interview\DataStructures\DataStructures\bin\Debug\DataStructures.pdb
+C:\Learning\Amazon Interview\DataStructures\DataStructures\obj\Debug\DataStructures.csprojResolveAssemblyReference.cache
+C:\Learning\Amazon Interview\DataStructures\DataStructures\obj\Debug\DataStructures.exe
+C:\Learning\Amazon Interview\DataStructures\DataStructures\obj\Debug\DataStructures.pdb
