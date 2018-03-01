@@ -6,7 +6,7 @@ namespace DataStructures
     {
         int max = 4;
         int rear = -1;
-        int front = 0;
+        int front = -1;
         int itemCount = 0;
 
         string[] queue = new string[5];
@@ -20,6 +20,9 @@ namespace DataStructures
                 // ++rear => increment and assign
                 // rear++ => assign and increment
 
+                if(front == -1 )
+                    front = 0;
+                
                 queue[++rear] = data;                
                 itemCount++;
             }
@@ -49,7 +52,7 @@ namespace DataStructures
 
         private bool IsEmpty()
         {
-            return itemCount == 0;
+            return ( front == -1 || front > rear )
         }
     }
 }
